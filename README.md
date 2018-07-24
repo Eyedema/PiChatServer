@@ -1,6 +1,6 @@
 # PiChatServer
 
-ealizzare la classe Python chiamata MyChatServer che implementa un server che consenta ad un gruppo di utenti di scambiarsi messaggi. 
+Realizzare la classe Python chiamata MyChatServer che implementa un server che consenta ad un gruppo di utenti di scambiarsi messaggi. 
 
 La classe deve fornire:
 
